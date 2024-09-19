@@ -1,2 +1,2 @@
-# ReactWithHC
-Learning React with Hitesh (Revision)
+# ReactProjects
+All the react project in one repo 

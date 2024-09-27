@@ -19,4 +19,4 @@ export const useToDo = () => {
     return useContext(ToDoContext)
 }
 
-export const ToDoProvider = ToDoContext.Provider;
+export const ToDoProvider = ToDoContext.Provider
